@@ -5,5 +5,6 @@ Sumar el resultado de lanzar dos dados y anotar en un array el número de aparic
 repitiendo 50 veces esta operación.
 
 Ejemplo de salida: intentar hacer
- */
+ */ 
+// no realizado
 
