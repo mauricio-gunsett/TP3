@@ -21,8 +21,9 @@ const cuenta = {
       if (isNaN(importe) || importe <= 0) {
         alert("Ingrese un billetin");
       } else {
-        document.write(`<h1>El importe de su cuenta es ${this.saldo}</h1>`);
         this.saldo += importe;
+        document.write(`<h1>El importe de su cuenta es ${this.saldo}</h1>`);
+        
       }
     },
     extraer() {
